@@ -7,6 +7,9 @@
 
 #Next we're going to load the data
 
-#runing a model
 
-#cleaning data again
+
+
+
+#I am cleaning my data
+#I am starting to run a model
