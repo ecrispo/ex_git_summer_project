@@ -4,3 +4,5 @@
 # ecrispo@pace.edu
 
 #Load packages
+
+#Next we're going to load the data
