@@ -6,3 +6,7 @@
 #Load packages
 
 #Next we're going to load the data
+
+#runing a model
+
+#cleaning data again
